@@ -6,3 +6,13 @@ git remote add origin https://github.com/cbipadma/Balatest.git
 git push -u origin master
 
 Please help to upload this file into the github repository
+
+echo "# Balatest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/cbipadma/Balatest.git
+git push -u origin master
+
+
+Second update with chnages made according to DevOps requirement
